@@ -3,8 +3,9 @@ import React from "react";
 function HomePage() {
   return (
     <div className="jumbotron">
-      <h1>Random String</h1>
-      <p>Ultra responsive stuff</p>
+      <h1>React Header</h1>
+      <p>React Paragraph</p>
+      <a href="/about">About</a>
     </div>
   );
 }
